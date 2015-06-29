@@ -1,0 +1,3 @@
+NET switch_0           LOC="P114" | IOSTANDARD=LVTTL;                                # C0
+NET switch_1           LOC="P115" | IOSTANDARD=LVTTL;                                # C1
+NET LED_0	           LOC="P100" | IOSTANDARD=LVTTL;                                # A15
