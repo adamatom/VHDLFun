@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\adam\Documents\projects\VHDLFun\TwentyMHzSquares\Squares.ncd
+OUTFILE=C:\Users\adam\Documents\projects\VHDLFun\TwentyMHzSquares\Squares.bit
+FAMILY=Spartan6
+PART=xc6slx9-2tqg144
+WORKINGDIR=C:\Users\adam\Documents\projects\VHDLFun\TwentyMHzSquares
+LICENSE=WebPack
+USER_INFO=210840244_0_0_451

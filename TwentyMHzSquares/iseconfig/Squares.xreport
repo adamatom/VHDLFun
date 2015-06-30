@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2015-06-29T20:56:40</DateModified>
+  <DateModified>2015-06-30T19:22:03</DateModified>
   <ModuleName>Squares</ModuleName>
-  <SummaryTimeStamp>2015-06-28T14:59:22</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/adam/Documents/projects/VHDLFun/Squares/iseconfig/Squares.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/adam/Documents/projects/VHDLFun/Squares\</ImplementationReportsDirectory>
+  <SummaryTimeStamp>2015-06-29T23:13:42</SummaryTimeStamp>
+  <SavedFilePath>C:/Users/adam/Documents/projects/VHDLFun/TwentyMHzSquares/iseconfig/Squares.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/adam/Documents/projects/VHDLFun/TwentyMHzSquares\</ImplementationReportsDirectory>
   <DateInitialized>2015-06-28T13:56:17</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
