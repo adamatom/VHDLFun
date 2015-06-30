@@ -17,14 +17,19 @@ begin
     LEDs <= counter(29 downto 22);
     clk_proc: process(clk, counter)
         begin
+
         if rising_edge(clk) then
-            counter(29 downto 15) <= counter(29 downto 15)+incHighNext;
-            if counter(14 downto 0) = "111111111111110" then
-                incHighNext <= '1';
+            if switches(5) = '1' then -- a reset by any other name... just playing around with ISim
+                counter(29 downto 0) <= (others => '0'); 
             else
-                incHighNext <= '0';
+                counter(29 downto 15) <= counter(29 downto 15)+incHighNext;
+                if counter(14 downto 0) = "111111111111110" then
+                    incHighNext <= '1';
+                else
+                    incHighNext <= '0';
+                end if;
+                counter(14 downto 0) <= counter(14 downto 0)+1;
             end if;
-            counter(14 downto 0) <= counter(14 downto 0)+1;
         end if;
     end process;
 end Behavioral;

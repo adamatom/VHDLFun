@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/adam/Documents/projects/VHDLFun/HowFast/tb_Switches_LEDs_isim_beh.exe" -prj "C:/Users/adam/Documents/projects/VHDLFun/HowFast/tb_Switches_LEDs_beh.prj" "work.tb_Switches_LEDs" 
