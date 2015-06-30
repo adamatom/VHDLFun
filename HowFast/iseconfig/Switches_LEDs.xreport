@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
-  <DateModified>2015-06-29T19:50:53</DateModified>
+  <DateModified>2015-06-29T20:00:30</DateModified>
   <ModuleName>Switches_LEDs</ModuleName>
   <SummaryTimeStamp>2015-06-28T20:29:05</SummaryTimeStamp>
-  <SavedFilePath>C:/Users/adam/Documents/projects/VHDLFun/SwitchLEDs/iseconfig/Switches_LEDs.xreport</SavedFilePath>
-  <ImplementationReportsDirectory>C:/Users/adam/Documents/projects/VHDLFun/SwitchLEDs\</ImplementationReportsDirectory>
+  <SavedFilePath>C:/Users/adam/Documents/projects/VHDLFun/HowFast/iseconfig/Switches_LEDs.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/adam/Documents/projects/VHDLFun/HowFast\</ImplementationReportsDirectory>
   <DateInitialized>2015-06-28T20:25:14</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>
