@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/adam/projects/VHDLFun/SPIRelay/TB_SPIRelay_isim_beh.exe" -prj "/home/adam/projects/VHDLFun/SPIRelay/TB_SPIRelay_beh.prj" "work.TB_SPIRelay" 
