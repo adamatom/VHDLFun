@@ -1,1 +1,0 @@
-vhdtdtfi -prj HowFast -o C:/Users/adam/Documents/projects/VHDLFun/HowFast/Switches_LEDs.vhi -module Switches_LEDs -template C:/Xilinx/14.7/ISE_DS/ISE//data/vhdlinst.tft -deleteonerror -lib work SwitchLEDs.vhd 
