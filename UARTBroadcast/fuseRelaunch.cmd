@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "/home/adam/projects/VHDLFun/UARTBroadcast/test_top_level_isim_beh.exe" -prj "/home/adam/projects/VHDLFun/UARTBroadcast/test_top_level_beh.prj" "work.test_top_level" 
